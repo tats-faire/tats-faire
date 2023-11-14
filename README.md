@@ -1,5 +1,4 @@
-<div align="center" height="300px" overflow="hidden"><img src="placeholder" height="300px" alt="a pixel art gif showing a steaming cup of coffee" title="café by Tat"/></div>
-![cafe-by-tat-small]()
+<div align="center" height="200px" overflow="hidden"><img src="https://github.com/tats-faire/tats-faire/assets/118774224/6d3f95f0-2e51-44d1-b765-cf8c6580039c" height="300px" alt="a pixel art gif showing a steaming cup of coffee" title="café by Tat"/></div>
 
 ### Nice to meet you 👋
 I'm Tat, a philosophy graduate with a passion for technology. 
