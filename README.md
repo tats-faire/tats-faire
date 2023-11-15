@@ -1,4 +1,5 @@
-<div align="right" height="150px" width="20%"><img src="https://github.com/tats-faire/tats-faire/assets/118774224/6d3f95f0-2e51-44d1-b765-cf8c6580039c" height="150px" align="right" alt="a pixel art gif showing a steaming cup of coffee next to a laptop with VS Code running" title="café by Tat"/></div>
+
+<img align="right" width="33%" src="https://github.com/tats-faire/tats-faire/assets/118774224/6d3f95f0-2e51-44d1-b765-cf8c6580039c" height="150px" align="right" alt="a pixel art gif showing a steaming cup of coffee next to a laptop with VS Code running" title="café by Tat">
 
 ### Nice to meet you 👋
 I'm Tat, a philosophy graduate with a passion for technology. 
