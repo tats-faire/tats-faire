@@ -5,11 +5,11 @@
 I'm Tat, a philosophy graduate with a passion for technology. 
 ***
 ### About me
-- 🚀 Current focus: Eager to expand my tech stack, explore new challenges and tackle projects.
+- 🚀 Current focus: Eager to expand my tech stack, tackle projects and explore new challenges.
 - 💬 I'm a trained peer-to-peer writing tutor, and spent a few years helping students learn academic writing and overcome writing problems in a University writing center. Currently I'm working in a research group as a student assistant and creating Open Educational Resources. I love helping others understand, and learning from others.
 - 💫 I'm passionate about language. It's a most powerful tool that we use not only to create and communicate meaning, but also to understand and connect with each other. I find it fascinating how both natural and coding languages are bound to logic, while at the same time offering room for infinite possibilites.
 - 💡 I love translating things: Complex stuff into simple bits, concepts from one professional discipline into the language of another, and ideas into code.
-- 🖼️ I've always been interested in composition and design, and recently started playing around with pixel art.
+- 🖼️ I've always been interested in composition and design, and recently started playing around with pixel art as a hobby.
 - 🗣️ Native in German, but I read, write, speak and listen to English almost every day.
 
 ***
