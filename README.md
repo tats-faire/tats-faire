@@ -33,7 +33,7 @@ I'm Tat, a philosophy graduate with a passion for technology.
 ***
 Have a great day! ✨
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=1A744A&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tats-faire&color=1A744A&style=flat-square)
 ***
 
 
