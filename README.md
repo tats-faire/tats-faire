@@ -1,5 +1,5 @@
 
-<img align="right" src="cafe_by_tat_small.gif" height="150px" width="304px" align="right" alt="a pixel art gif showing a steaming cup of coffee next to a laptop with VS Code running" title="café by Tat">
+<img align="right" src="cafe_by_tat_small.gif" height="150px" width="304px" align="right" alt="a pixel art gif showing a steaming cup of coffee next to a laptop with VS Code running" title="Any bugs you may find are undocumented features.">
 
 ### Nice to meet you 👋
 I'm Tat, a philosophy graduate with a passion for technology. 
