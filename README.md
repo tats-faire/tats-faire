@@ -5,11 +5,14 @@
 I'm Tat, a philosophy graduate with a passion for technology. 
 ***
 ### About me
-- 🚀 Current focus: Eager to expand my tech stack, tackle projects and explore new challenges.
-- 💬 I'm a trained peer-to-peer writing tutor, and spent a few years helping students learn academic writing and overcome writing problems in a University writing center. Currently I'm working in a research group as a student assistant and creating Open Educational Resources. I love helping others understand, and learning from others.
-- 💡 I'm passionate about language. It's a most powerful tool that we use not only to create and communicate meaning, but also to understand and connect with each other. I find it fascinating how both natural and coding languages are bound to logic, while at the same time offering room for infinite possibilites.
-- 💫 I love translating things: Complex stuff into simple bits, concepts from one professional discipline into the language of another, and ideas into code.
-- 🖼️ I've always been interested in composition and design, and recently started playing around with pixel art as a hobby.
+- 🚀 Current focus: Expanding my tech stack, tackling projects, and exploring new challenges.
+- 💡 I am a trained peer-to-peer writing tutor with experience in a university writing center. I have helped students overcome difficulties in academic writing and created Open Educational Resources based on research. I enjoy helping others understand as well as learning from them.
+- 💫 I love translating things:
+  - complex stuff into simple bits,
+  - concepts from one professional discipline into the language of another,
+  - and ideas into code.
+- 💬 My passion for language runs deep. It's a powerful tool that allows us to create and communicate meaning, as well as connect with and understand each other. I find it fascinating how natural and coding languages are both bound to logic, yet offer room for infinite possibilites.
+- 🖼️ Occasionally, I dabble with pixel art.
 - 🗣️ Native in German, but I use English almost every day.
 
 ***
