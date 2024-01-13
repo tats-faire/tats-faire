@@ -20,17 +20,16 @@ I'm Tat, a philosophy graduate with a passion for technology.
 ***
 ### 🛠️ Languages and Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23828282" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://devicon-website.vercel.app/api/codepen/plain.svg?color=%23828282" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://devicon-website.vercel.app/api/moodle/original.svg" title="Moodle" alt="Moodle" width="40" height="40"></img>&nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/></a>&nbsp;
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.linux.org"><img src="https://devicon-website.vercel.app/api/linux/original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a href="http://www.gnu.org/software/bash/"><img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23828282" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
+  <a href="https://code.visualstudio.com"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></a>&nbsp;
+  <a href="https://codepen.io/tats-faire"><img src="https://devicon-website.vercel.app/api/codepen/plain.svg?color=%23828282" title="Codepen" alt="Codepen" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.canva.com"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></a>&nbsp;
+  <a href="https://moodle.org/"><img src="https://devicon-website.vercel.app/api/moodle/original.svg" title="Moodle" alt="Moodle" width="40" height="40"></img></a>&nbsp;
 </div>
 
 ***
