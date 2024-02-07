@@ -6,7 +6,7 @@ I'm Tat, a philosophy graduate with a passion for technology.
 ***
 ### About me
 - 🚀 Current focus: Expanding my tech stack, tackling projects, and exploring new challenges.
-- 💡 I am a trained peer-to-peer writing tutor with experience in a university writing center. I have helped students overcome difficulties in academic writing and created Open Educational Resources based on research. I enjoy helping others understand as well as learning from them.
+- 💡 I am a trained peer-to-peer writing tutor with experience in a university writing center. I have helped students overcome difficulties in academic writing and developed Open Educational Resources based on research. Learning from others as well as helping others understand are genuinely gratifying experiences for me.
 - 💫 I love translating things:
   - complex stuff into simple bits,
   - concepts from one professional discipline into the language of another,
