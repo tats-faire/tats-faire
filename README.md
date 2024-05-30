@@ -30,6 +30,7 @@ I'm Tat, a philosophy graduate with a passion for technology.
   <a href="https://codepen.io/tats-faire"><img src="https://devicon-website.vercel.app/api/codepen/plain.svg?color=%23828282" title="Codepen" alt="Codepen" width="40" height="40"/></a>&nbsp;
   <a href="https://www.canva.com"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></a>&nbsp;
   <a href="https://moodle.org/"><img src="https://devicon-website.vercel.app/api/moodle/original.svg" title="Moodle" alt="Moodle" width="40" height="40"></img></a>&nbsp;
+  <a href="https://learn.microsoft.com/de-de/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"><img src="https://devicon-website.vercel.app/api/azure/original.svg" title="Azure" alt="Azure" width="40" height="40"></img></a>&nbsp;
 </div>
 
 ***
