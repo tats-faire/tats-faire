@@ -2,18 +2,18 @@
 <img align="right" src="cafe_by_tat_small.gif" height="150px" width="304px" align="right" alt="a pixel art gif showing a steaming cup of coffee next to a laptop with VS Code running" title="Any bugs you may find are just undocumented features.">
 
 ### Nice to meet you 👋
-I'm Tat, a philosophy graduate with a passion for technology. 
+I'm Tat, a philosophy graduate in my previous life, and I am currently on my path to becoming a software engineer.
 ***
 ### About me
-- 🚀 Current focus: Expanding my tech stack, tackling projects, and exploring new challenges.
-- 💡 I am a trained peer-to-peer writing tutor with experience in a university writing center. I have helped students overcome difficulties in academic writing and developed Open Educational Resources based on research. Learning from others as well as helping others understand are genuinely gratifying experiences for me.
+- 🚀 Current focus: Expanding my tech stack and learning the basics of (Java) fullstack development: Databases, responsive and dynamic websites, the MVC model, JPA, using containers, ...
+- 💡 I was a trained peer-to-peer writing tutor in a university writing center. I have helped students overcome difficulties in academic writing and developed Open Educational Resources based on research. Learning from others as well as helping others understand are genuinely gratifying experiences for me.
 - 💫 I love translating things:
   - complex stuff into simple bits,
   - concepts from one professional discipline into the language of another,
   - and ideas into code.
 - 💬 My passion for language runs deep. It's a powerful tool that allows us to create and communicate meaning, as well as connect with and understand each other. I find it fascinating how natural and coding languages are both bound to logic, yet offer room for infinite possibilites.
 - 🖼️ Occasionally, I dabble with pixel art.
-- 🗣️ Native in German, but I use English almost every day.
+- 🗣️ Native in German, fluent in English.
 
 ***
 ### 📍 Braunschweig, Germany
@@ -22,6 +22,8 @@ I'm Tat, a philosophy graduate with a passion for technology.
 <div>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href="https://openjdk.org/projects/jdk/22/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/></a>&nbsp; 
+  <a href="https://www.thymeleaf.org/"><img src="https://github.com/thymeleaf/thymeleaf-org/blob/main/artwork/thymeleaf%202016/thymeleaf_logo.png" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.w3.org/Style/CSS/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/></a>&nbsp;
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/></a>&nbsp;
