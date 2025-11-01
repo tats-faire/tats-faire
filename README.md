@@ -16,16 +16,16 @@ I'm Tat, a philosophy graduate in my previous life, and I am currently on my pat
 - 🗣️ Native in German, fluent in English.
 
 ***
-### 📍 Braunschweig, Germany
-***
 ### 🧰 Languages and Frameworks
 <div>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href="https://openjdk.org/projects/jdk/22/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://junit.org/junit5/docs/current/user-guide/#overview"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line.svg" title="JUnit" alt="JUnit" width="40" height="40"/></a>&nbsp;
   <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/></a>&nbsp; 
-  <a href="https://angular.dev/"><img style="margin-top:2;" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="45" height="45"/></a>&nbsp; 
+  <a href="https://angular.dev/"><img style="margin-top:2;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Angular" alt="Angular" width="45" height="45"/></a>&nbsp; 
+  <a href="https://react.dev/"><img style="margin-top:2;" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="React" alt="React" width="45" height="45"/></a>&nbsp; 
   <a href="https://www.thymeleaf.org/"><img src="https://github.com/thymeleaf/thymeleaf-org/blob/main/artwork/thymeleaf%202016/thymeleaf_logo.png" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/></a>&nbsp;
+  <a href="https://htmx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg" title="HTMX" alt="HTMX" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a>&nbsp;
   <a href="https://jasmine.github.io/"><img src="https://devicon-website.vercel.app/api/jasmine/plain.svg" title="Jasmine" alt="Jasmine" width="40" height="40"/></a>&nbsp;
@@ -52,8 +52,6 @@ I'm Tat, a philosophy graduate in my previous life, and I am currently on my pat
 
 ***
 Have a great day! ✨
-
-![](https://komarev.com/ghpvc/?username=tats-faire&color=1A744A&style=flat-square)
 ***
 
 
