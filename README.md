@@ -42,6 +42,7 @@
 #### 📖 Other
 <div>
   <a href="http://www.gnu.org/software/bash/"><img align="left" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23828282" title="Bash" alt="" width="40" height="40"/></a>
+  <a href="https://swagger.io/specification/"><img align="left" src="https://svgicons.com/api/ogimage/?id=111588&n=openapi-icon" title="OpenAPI" alt="" width="40" height="40"/></a>
   <br/><br/>
 </div>  
 
